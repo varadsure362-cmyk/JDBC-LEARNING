@@ -1,6 +1,6 @@
 # JDBC Learning
 
-This project contains beginner-friendly Java examples for learning JDBC concepts using MySQL.
+A beginner-friendly Java JDBC project demonstrating database connectivity with MySQL. Explores key concepts like Driver configuration, Statement/PreparedStatement execution, scrollable ResultSets, ResultSetMetaData, batch processing, update/delete queries, and ACID transactions.
 
 ## What you will learn
 - Connecting Java to MySQL using JDBC
@@ -11,10 +11,10 @@ This project contains beginner-friendly Java examples for learning JDBC concepts
 - Understanding transactions and batch processing
 
 ## Files
-- Demo.java: JDBC examples for statements, batch processing, updates, and deletes
-- Bank.java: Simple bank-style example using PreparedStatement and ResultSet
+- [Demo.java](file:///d:/Advance%20java/JDBC/src/Demo.java): JDBC examples for statements, batch processing, updates, and deletes
+- [Bank.java](file:///d:/Advance%20java/JDBC/src/Bank.java): Simple bank-style example using PreparedStatement and ResultSet
 
 ## Tools used
 - Java
 - MySQL
-- JDBC Driver
+- JDBC Driver (Connector/J)
